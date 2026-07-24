@@ -1071,7 +1071,6 @@ ui/src/pages/chat/chat-command-executor.test.ts
 ui/src/pages/chat/chat-command-executor.ts
 ui/src/pages/chat/chat-gateway.test.ts
 ui/src/pages/chat/chat-history.ts
-ui/src/pages/chat/chat-pane.ts
 ui/src/pages/chat/chat-responsive.browser.test.ts
 ui/src/pages/chat/chat-send.test.ts
 ui/src/pages/chat/chat-state.test.ts
@@ -1080,7 +1079,6 @@ ui/src/pages/chat/chat-thread.test.ts
 ui/src/pages/chat/chat-thread.ts
 ui/src/pages/chat/chat-view.test.ts
 ui/src/pages/chat/components/chat-message.test.ts
-ui/src/pages/chat/components/chat-message.ts
 ui/src/pages/chat/components/chat-model-controls.ts
 ui/src/pages/chat/components/chat-session-workspace.ts
 ui/src/pages/chat/components/chat-sidebar.ts
